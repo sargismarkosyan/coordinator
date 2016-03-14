@@ -1,5 +1,5 @@
 .env
+.idea
 node_modules
 dev/bower_components
 dev/js/settings.js
-dist
